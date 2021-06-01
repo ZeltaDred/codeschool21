@@ -1,0 +1,39 @@
+* {
+    font-family: Roboto;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+#container {
+    display: grid;
+    grid-template-columns: 1fr 1000px 1fr;
+    background-image: url("background.jpg");
+    height: 450px;
+    max-width: 1200px;
+}
+
+#inner {
+    padding-top: 70px;
+    grid-column-start: 2;
+    color: white;
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 38px;
+    padding-bottom: 20px;
+}
+
+p {
+    font-weight: 200;
+    font-size: 18px;
+}
+
+#container #inner button {
+    margin-top: 30px;
+    color: white;
+    padding: 10px;
+    background-color:#39a383;
+}

@@ -1,0 +1,41 @@
+.hero {
+    background-image: url(1.jpg);
+    height: 450px;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-size: cover;
+}
+
+h1, h4 {
+    color: white;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h4 {
+    font-weight: 300;
+}
+
+.h1 {
+    padding: 130px 75px 0;
+}
+
+.h4 {
+    padding: 20px 75px;
+}
+
+button {
+    color: white;
+    border: none;
+    background: #34bbc7;
+    padding: 5px 14px;
+    border-radius: 2px;
+}
+
+.button {
+    padding: 10px 75px;
+}

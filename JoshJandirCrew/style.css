@@ -1,0 +1,23 @@
+#hero {
+    height: 450px;
+    max-width: 1200px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(209, 210, 211);
+    padding-top: 100px;
+    padding-left: 75px;
+    letter-spacing: 1px;
+    background: linear-gradient( rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75) ), url('images/mixer.jpg');
+}
+
+p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 8pt;
+}
+
+button {
+    background-color: cadetblue;
+    border: none;
+    color: white;
+    padding: 9px;
+}

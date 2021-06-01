@@ -1,0 +1,28 @@
+.hero-image{
+    background-image: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, .65)), url("images/mixer.jpg");
+    height: 450px;
+    max-width: 1200px;
+    background-position-x: center;
+}
+
+.hero-text{
+    padding-top: 5em;
+    margin-left: 5em;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    color: white;
+}
+
+
+
+.hero-button{
+    height: 3em;
+    border: none;
+    width: 10em;
+    background-color: #66bda1;
+    color: white;
+}
+
+.hero-button:hover{
+    background-color: #569c85;
+}

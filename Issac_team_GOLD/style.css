@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+div {
+    color:white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(images/mixer.jpg);
+    max-width: 1200px;
+    height:450px;
+    
+}
+
+.text {
+    margin-left:50px;
+    margin: 40px 0 40px 20px;
+    padding-top: 100px;
+    padding-left: 20px;
+}
+
+button {
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: black;
+}
+
+button:hover {
+    color:violet
+}
